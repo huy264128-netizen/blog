@@ -19,7 +19,7 @@ tags:
 
 #### VSCode
 
-显然的，自从微软发明了LSP即Language Server Protocal后，功能丰富的编辑器可以简单的加上一系列的拓展当作IDE好好的用，这方面的佼佼者显然是推出LSP的概念的VSCode,在安装clangd code-runner和cphelper以后基本上就是一个很适合竞赛的IDE了，clangd可以提供迄今为止C++下最强的基于文本补全的提示，code-runner则提供了简单好用的单文件，cph-runner提供了快速本地测试的能力。不过出于一些原因，在windows上设置这个会比较麻烦，主要是clangd,因为win下默认的编译器是MSVC而不是mingw，有需求还是建议选择Linux系的系统比如Arch之类的。
+显然的，自从微软发明了LSP即Language Server Protocal后，功能丰富的编辑器可以简单的加上一系列的拓展当作IDE好好的用，这方面的佼佼者显然是推出LSP的概念的VSCode,在安装clangd cpp-runner和cph-ng以后基本上就是一个很适合竞赛的IDE了，clangd可以提供迄今为止C++下最强的基于文本补全的提示，code-runner则提供了简单好用的单文件，cph提供了快速本地测试的能力。不过出于一些原因，在windows上设置这个会比较麻烦，主要是clangd,因为win下默认的编译器是MSVC而不是mingw，有需求还是建议选择Linux系的系统比如Arch之类的。
 
 #### Clion
 

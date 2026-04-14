@@ -4,6 +4,7 @@ date: 2026-04-12 22:26:42
 tags:
   - 搞笑
   - Linux
+hidden: true
 ---
 众所周知，**Arch Linux**作为Linux界著名的邪教系统，在Linux发行版中人气颇高，尤其是算法竞赛圈的选手中，一直有着极高的使用率，本人在充分接触Arch Linux后，总结出了一些结论，我认为大家非常有必要用Arch Linux
 
